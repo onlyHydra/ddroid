@@ -35,9 +35,10 @@ After the end-user has completed all the purcheses , he needs to type 0 in conso
 
 3:"Checkout" , generates the invoice 
 
-4:"Command" , i made it avaible only during the Select proccess. For example:
+4:"Command" , i made it avaible only during the Select proccess. 
+For example:
 user_input >> Select
-User has forgot how the command works ,
+User has forgot how the command works
 user_input >> Command
 
 it will display all the commands avaible and hits on how to use them.
