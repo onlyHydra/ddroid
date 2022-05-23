@@ -24,7 +24,7 @@ Headphones - $59.99
 
 DeskLamp - $89.99
 
-Now the console app will wait for the end-user to inpute the name of a product and the cantity he desires to buy.
+Now the console app will wait for the end-user to input the name of a product and the cantity he desires to buy.
 
 syntax : Product_name quantity , the syntax is Capslock sensitive 
 example : Mouse 1 , it will work
