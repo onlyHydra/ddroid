@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-23T06:59:10" hostname="HYDRALAPTOP" time="0.015">
+  <properties/>
+  <testcase name="test_shipping()" classname="mainTest" time="0.009"/>
+  <testcase name="resetValues()" classname="mainTest" time="0.002"/>
+  <testcase name="test_subtotal()" classname="mainTest" time="0.001"/>
+  <testcase name="test_total()" classname="mainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
